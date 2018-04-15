@@ -1,0 +1,134 @@
+ 
+****************************************
+Report : qor
+Design : MemoryController
+Version: G-2012.06
+Date   : Wed Mar 14 16:21:22 2018
+****************************************
+
+
+  Timing Path Group (none)
+  -----------------------------------
+  Levels of Logic:              2.000
+  Critical Path Length:       231.664
+  Critical Path Slack:         uninit
+  Critical Path Clk Period:       n/a
+  Total Negative Slack:         0.000
+  No. of Violating Paths:       0.000
+  Worst Hold Violation:         0.000
+  Total Hold Violation:         0.000
+  No. of Hold Violations:       0.000
+  -----------------------------------
+
+
+  Cell Count
+  -----------------------------------
+  Hierarchical Cell Count:          4
+  Hierarchical Port Count:        284
+  Leaf Cell Count:             108811
+  Buf/Inv Cell Count:           14468
+  CT Buf/Inv Cell Count:            0
+  Combinational Cell Count:     75856
+  Sequential Cell Count:        32955
+  Macro Count:                      0
+  -----------------------------------
+
+
+  Area
+  -----------------------------------
+  Combinational Area:      276271.305
+  Noncombinational Area:   217902.564
+  Net Area:                451896.974
+  -----------------------------------
+  Cell Area:               494173.869
+  Design Area:             946070.844
+
+
+  Design Rules
+  -----------------------------------
+  Total Number of Nets:        108969
+  Nets With Violations:             0
+  Max Trans Violations:             0
+  Max Cap Violations:               0
+  -----------------------------------
+
+
+  Hostname: eve.ece.pdx.edu
+
+  Compile CPU Statistics
+  -----------------------------------------
+  Resource Sharing:                 149.760
+  Logic Optimization:               610.175
+  Mapping Optimization:             492.344
+  -----------------------------------------
+  Overall Compile Time:            1765.115
+  Overall Compile Wall Clock Time: 1768.605
+
+1
+ 
+****************************************
+Report : qor
+Design : MemoryController
+Version: G-2012.06
+Date   : Wed Mar 14 16:22:52 2018
+****************************************
+
+
+  Timing Path Group (none)
+  -----------------------------------
+  Levels of Logic:              2.000
+  Critical Path Length:       231.664
+  Critical Path Slack:         uninit
+  Critical Path Clk Period:       n/a
+  Total Negative Slack:         0.000
+  No. of Violating Paths:       0.000
+  Worst Hold Violation:         0.000
+  Total Hold Violation:         0.000
+  No. of Hold Violations:       0.000
+  -----------------------------------
+
+
+  Cell Count
+  -----------------------------------
+  Hierarchical Cell Count:          4
+  Hierarchical Port Count:        284
+  Leaf Cell Count:             108811
+  Buf/Inv Cell Count:           14468
+  CT Buf/Inv Cell Count:            0
+  Combinational Cell Count:     75856
+  Sequential Cell Count:        32955
+  Macro Count:                      0
+  -----------------------------------
+
+
+  Area
+  -----------------------------------
+  Combinational Area:      276271.305
+  Noncombinational Area:   217902.564
+  Net Area:                451896.974
+  -----------------------------------
+  Cell Area:               494173.869
+  Design Area:             946070.844
+
+
+  Design Rules
+  -----------------------------------
+  Total Number of Nets:        108969
+  Nets With Violations:             0
+  Max Trans Violations:             0
+  Max Cap Violations:               0
+  -----------------------------------
+
+
+  Hostname: eve.ece.pdx.edu
+
+  Compile CPU Statistics
+  -----------------------------------------
+  Resource Sharing:                 146.465
+  Logic Optimization:               664.425
+  Mapping Optimization:             489.523
+  -----------------------------------------
+  Overall Compile Time:            1835.299
+  Overall Compile Wall Clock Time: 1838.025
+
+1

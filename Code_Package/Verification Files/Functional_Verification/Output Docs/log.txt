@@ -1,0 +1,1308 @@
+		--------Trace result set begins---------
+
+
+		--------Operations Summary---------
+
+
+------------------------------------------------------
+Program Page operation started for page  9 @35
+Program Page operation successful for page  9 @20565
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  6 @20595
+Page Read operation successful for page  6 @41125
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 25 @41175
+Page Read operation successful for page 25 @61705
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 19 @61725
+Program Page operation successful for page 19 @82255
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 25 @82295
+Page Read operation successful for page 25 @102825
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 16 @102845
+Program Page operation successful for page 16 @123375
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 30 @123395
+Page Read operation successful for page 30 @143925
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 24 @143955
+Program Page operation successful for page 24 @164485
+------------------------------------------------------
+
+-----------------------------------------------------
+Erase operation started for block 4 @164495
+Erase operation successful for block 4 @164535
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  7 @164575
+Page Read operation successful for page  7 @185105
+------------------------------------------------------
+
+-----------------------------------------------------
+Erase operation started for block 1 @185125
+Erase operation successful for block 1 @185165
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  0 @185175
+Program Page operation successful for page  0 @205705
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 27 @205715
+Page Read operation successful for page 27 @226245
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 27 @226265
+Page Read operation successful for page 27 @246795
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 10 @246805
+Page Read operation successful for page 10 @267335
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 31 @267345
+Page Read operation successful for page 31 @287875
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  5 @287915
+Page Read operation successful for page  5 @308445
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 24 @308465
+Page Read operation successful for page 24 @328995
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  8 @329015
+Page Read operation successful for page  8 @349545
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 25 @349555
+Program Page operation successful for page 25 @370085
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  5 @370105
+Program Page operation successful for page  5 @390635
+------------------------------------------------------
+
+-----------------------------------------------------
+Erase operation started for block 6 @390655
+Erase operation successful for block 6 @390695
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  4 @390705
+Program Page operation successful for page  4 @411235
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 24 @411255
+Program Page operation successful for page 24 @431785
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 16 @431795
+Program Page operation successful for page 16 @452325
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 10 @452345
+Program Page operation successful for page 10 @472875
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 22 @472885
+Page Read operation successful for page 22 @493415
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 30 @493435
+Page Read operation successful for page 30 @513965
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 24 @514025
+Page Read operation successful for page 24 @534555
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 20 @534585
+Page Read operation successful for page 20 @555115
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 26 @555135
+Page Read operation successful for page 26 @575665
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  3 @575695
+Program Page operation successful for page  3 @596225
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 30 @596235
+Program Page operation successful for page 30 @616765
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  3 @616785
+Page Read operation successful for page  3 @637315
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 23 @637325
+Page Read operation successful for page 23 @657855
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 16 @657885
+Program Page operation successful for page 16 @678415
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 31 @678445
+Program Page operation successful for page 31 @698975
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 22 @698985
+Page Read operation successful for page 22 @719515
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  1 @719535
+Program Page operation successful for page  1 @740065
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 14 @740085
+Page Read operation successful for page 14 @760615
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 18 @760635
+Program Page operation successful for page 18 @781165
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  4 @781185
+Page Read operation successful for page  4 @801715
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 28 @801735
+Page Read operation successful for page 28 @822265
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  8 @822275
+Program Page operation successful for page  8 @842805
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 14 @842845
+Page Read operation successful for page 14 @863375
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  1 @863395
+Program Page operation successful for page  1 @883925
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  3 @883945
+Page Read operation successful for page  3 @904475
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 28 @904505
+Page Read operation successful for page 28 @925035
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  6 @925055
+Page Read operation successful for page  6 @945585
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 29 @945655
+Program Page operation successful for page 29 @966185
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 12 @966205
+Page Read operation successful for page 12 @986735
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 23 @986745
+Program Page operation successful for page 23 @1007275
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  0 @1007315
+Page Read operation successful for page  0 @1027845
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 24 @1027865
+Program Page operation successful for page 24 @1048395
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  6 @1048405
+Page Read operation successful for page  6 @1068935
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 14 @1068945
+Program Page operation successful for page 14 @1089475
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  2 @1089485
+Program Page operation successful for page  2 @1110015
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  5 @1110025
+Program Page operation successful for page  5 @1130555
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 18 @1130575
+Page Read operation successful for page 18 @1151105
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  8 @1151125
+Program Page operation successful for page  8 @1171655
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 31 @1171675
+Page Read operation successful for page 31 @1192205
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 13 @1192225
+Page Read operation successful for page 13 @1212755
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 24 @1212785
+Page Read operation successful for page 24 @1233315
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  1 @1233325
+Page Read operation successful for page  1 @1253855
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 21 @1253895
+Page Read operation successful for page 21 @1274425
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  0 @1274445
+Page Read operation successful for page  0 @1294975
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 23 @1294985
+Program Page operation successful for page 23 @1315515
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 21 @1315545
+Program Page operation successful for page 21 @1336075
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 23 @1336095
+Program Page operation successful for page 23 @1356625
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 12 @1356635
+Page Read operation successful for page 12 @1377165
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  4 @1377185
+Page Read operation successful for page  4 @1397715
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 16 @1397725
+Program Page operation successful for page 16 @1418255
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 29 @1418265
+Page Read operation successful for page 29 @1438795
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 18 @1438825
+Program Page operation successful for page 18 @1459355
+------------------------------------------------------
+
+-----------------------------------------------------
+Erase operation started for block 7 @1459365
+Erase operation successful for block 7 @1459405
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 28 @1459425
+Page Read operation successful for page 28 @1479955
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 10 @1479975
+Page Read operation successful for page 10 @1500505
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 10 @1500555
+Program Page operation successful for page 10 @1521085
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  7 @1521115
+Program Page operation successful for page  7 @1541645
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  5 @1541655
+Page Read operation successful for page  5 @1562185
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  5 @1562205
+Page Read operation successful for page  5 @1582735
+------------------------------------------------------
+
+-----------------------------------------------------
+Erase operation started for block 2 @1582755
+Erase operation successful for block 2 @1582795
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 31 @1582805
+Program Page operation successful for page 31 @1603335
+------------------------------------------------------
+
+-----------------------------------------------------
+Erase operation started for block 5 @1603345
+Erase operation successful for block 5 @1603385
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  2 @1603405
+Page Read operation successful for page  2 @1623935
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  0 @1623975
+Page Read operation successful for page  0 @1644505
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 14 @1644515
+Program Page operation successful for page 14 @1665045
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 27 @1665055
+Page Read operation successful for page 27 @1685585
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 25 @1685615
+Program Page operation successful for page 25 @1706145
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  2 @1706165
+Program Page operation successful for page  2 @1726695
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  3 @1726715
+Page Read operation successful for page  3 @1747245
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 25 @1747265
+Program Page operation successful for page 25 @1767795
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 30 @1767815
+Program Page operation successful for page 30 @1788345
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 18 @1788365
+Program Page operation successful for page 18 @1808895
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 22 @1808935
+Page Read operation successful for page 22 @1829465
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 29 @1829495
+Page Read operation successful for page 29 @1850025
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 24 @1850055
+Program Page operation successful for page 24 @1870585
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 27 @1870615
+Program Page operation successful for page 27 @1891145
+------------------------------------------------------
+
+-----------------------------------------------------
+Erase operation started for block 0 @1891155
+Erase operation successful for block 0 @1891195
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 26 @1891205
+Program Page operation successful for page 26 @1911735
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  3 @1911755
+Program Page operation successful for page  3 @1932285
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 11 @1932335
+Page Read operation successful for page 11 @1952865
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 16 @1952895
+Program Page operation successful for page 16 @1973425
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 27 @1973435
+Program Page operation successful for page 27 @1993965
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 26 @1994005
+Page Read operation successful for page 26 @2014535
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  9 @2014555
+Program Page operation successful for page  9 @2035085
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 20 @2035095
+Program Page operation successful for page 20 @2055625
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  2 @2055645
+Page Read operation successful for page  2 @2076175
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 15 @2076195
+Program Page operation successful for page 15 @2096725
+------------------------------------------------------
+
+-----------------------------------------------------
+Erase operation started for block 1 @2096745
+Erase operation successful for block 1 @2096785
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 14 @2096795
+Page Read operation successful for page 14 @2117325
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 31 @2117355
+Program Page operation successful for page 31 @2137885
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 21 @2137895
+Page Read operation successful for page 21 @2158425
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 29 @2158445
+Program Page operation successful for page 29 @2178975
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  9 @2178985
+Page Read operation successful for page  9 @2199515
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 27 @2199535
+Program Page operation successful for page 27 @2220065
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 16 @2220085
+Page Read operation successful for page 16 @2240615
+------------------------------------------------------
+
+-----------------------------------------------------
+Erase operation started for block 1 @2240635
+Erase operation successful for block 1 @2240675
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 21 @2240695
+Page Read operation successful for page 21 @2261225
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 23 @2261245
+Program Page operation successful for page 23 @2281775
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 27 @2281795
+Page Read operation successful for page 27 @2302325
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 19 @2302345
+Page Read operation successful for page 19 @2322875
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 16 @2322885
+Page Read operation successful for page 16 @2343415
+------------------------------------------------------
+
+-----------------------------------------------------
+Erase operation started for block 6 @2343445
+Erase operation successful for block 6 @2343485
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 24 @2343495
+Page Read operation successful for page 24 @2364025
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 22 @2364035
+Page Read operation successful for page 22 @2384565
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  8 @2384575
+Page Read operation successful for page  8 @2405105
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 26 @2405125
+Page Read operation successful for page 26 @2425655
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 16 @2425665
+Program Page operation successful for page 16 @2446195
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 28 @2446225
+Page Read operation successful for page 28 @2466755
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  2 @2466795
+Program Page operation successful for page  2 @2487325
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  4 @2487335
+Page Read operation successful for page  4 @2507865
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 29 @2507885
+Page Read operation successful for page 29 @2528415
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  2 @2528435
+Page Read operation successful for page  2 @2548965
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 18 @2548975
+Page Read operation successful for page 18 @2569505
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  9 @2569525
+Page Read operation successful for page  9 @2590055
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 25 @2590075
+Page Read operation successful for page 25 @2610605
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  7 @2610635
+Program Page operation successful for page  7 @2631165
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  4 @2631175
+Program Page operation successful for page  4 @2651705
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  3 @2651725
+Page Read operation successful for page  3 @2672255
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 31 @2672275
+Program Page operation successful for page 31 @2692805
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 31 @2692815
+Page Read operation successful for page 31 @2713345
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 19 @2713365
+Program Page operation successful for page 19 @2733895
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  2 @2733905
+Page Read operation successful for page  2 @2754435
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  7 @2754455
+Program Page operation successful for page  7 @2774985
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  1 @2775015
+Program Page operation successful for page  1 @2795545
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 20 @2795565
+Page Read operation successful for page 20 @2816095
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 17 @2816115
+Page Read operation successful for page 17 @2836645
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 28 @2836685
+Page Read operation successful for page 28 @2857215
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 27 @2857225
+Program Page operation successful for page 27 @2877755
+------------------------------------------------------
+
+-----------------------------------------------------
+Erase operation started for block 3 @2877765
+Erase operation successful for block 3 @2877805
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 16 @2877815
+Page Read operation successful for page 16 @2898345
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  3 @2898385
+Page Read operation successful for page  3 @2918915
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  8 @2918935
+Page Read operation successful for page  8 @2939465
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 25 @2939475
+Program Page operation successful for page 25 @2960005
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 10 @2960025
+Page Read operation successful for page 10 @2980555
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 19 @2980585
+Page Read operation successful for page 19 @3001115
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 30 @3001135
+Program Page operation successful for page 30 @3021665
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 17 @3021705
+Page Read operation successful for page 17 @3042235
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 17 @3042255
+Page Read operation successful for page 17 @3062785
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 13 @3062815
+Page Read operation successful for page 13 @3083345
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  2 @3083365
+Page Read operation successful for page  2 @3103895
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  3 @3103915
+Program Page operation successful for page  3 @3124445
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 13 @3124455
+Page Read operation successful for page 13 @3144985
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 10 @3144995
+Page Read operation successful for page 10 @3165525
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  8 @3165565
+Program Page operation successful for page  8 @3186095
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  7 @3186105
+Program Page operation successful for page  7 @3206635
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 21 @3206655
+Program Page operation successful for page 21 @3227185
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 15 @3227215
+Program Page operation successful for page 15 @3247745
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  8 @3247775
+Program Page operation successful for page  8 @3268305
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 19 @3268345
+Program Page operation successful for page 19 @3288875
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 13 @3288895
+Page Read operation successful for page 13 @3309425
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  9 @3309435
+Page Read operation successful for page  9 @3329965
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 29 @3329985
+Page Read operation successful for page 29 @3350515
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 28 @3350525
+Program Page operation successful for page 28 @3371055
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  2 @3371085
+Program Page operation successful for page  2 @3391615
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  9 @3391625
+Page Read operation successful for page  9 @3412155
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  1 @3412175
+Program Page operation successful for page  1 @3432705
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 30 @3432735
+Page Read operation successful for page 30 @3453265
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 24 @3453285
+Page Read operation successful for page 24 @3473815
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  7 @3473835
+Page Read operation successful for page  7 @3494365
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 15 @3494395
+Page Read operation successful for page 15 @3514925
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 25 @3514935
+Page Read operation successful for page 25 @3535465
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 11 @3535485
+Page Read operation successful for page 11 @3556015
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  7 @3556075
+Program Page operation successful for page  7 @3576605
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 15 @3576615
+Page Read operation successful for page 15 @3597145
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 18 @3597165
+Page Read operation successful for page 18 @3617695
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  8 @3617725
+Page Read operation successful for page  8 @3638255
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  3 @3638265
+Program Page operation successful for page  3 @3658795
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 31 @3658815
+Page Read operation successful for page 31 @3679345
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 21 @3679365
+Page Read operation successful for page 21 @3699895
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 28 @3699935
+Page Read operation successful for page 28 @3720465
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 26 @3720505
+Page Read operation successful for page 26 @3741035
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  8 @3741045
+Program Page operation successful for page  8 @3761575
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 14 @3761595
+Program Page operation successful for page 14 @3782125
+------------------------------------------------------
+
+-----------------------------------------------------
+Erase operation started for block 7 @3782145
+Erase operation successful for block 7 @3782185
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 18 @3782225
+Program Page operation successful for page 18 @3802755
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 14 @3802765
+Page Read operation successful for page 14 @3823295
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 25 @3823315
+Page Read operation successful for page 25 @3843845
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 16 @3843855
+Page Read operation successful for page 16 @3864385
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 10 @3864395
+Page Read operation successful for page 10 @3884925
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 14 @3884975
+Page Read operation successful for page 14 @3905505
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  5 @3905535
+Program Page operation successful for page  5 @3926065
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  7 @3926105
+Program Page operation successful for page  7 @3946635
+------------------------------------------------------
+
+-----------------------------------------------------
+Erase operation started for block 0 @3946655
+Erase operation successful for block 0 @3946695
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  9 @3946735
+Page Read operation successful for page  9 @3967265
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 22 @3967305
+Program Page operation successful for page 22 @3987835
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  9 @3987855
+Page Read operation successful for page  9 @4008385
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 25 @4008405
+Program Page operation successful for page 25 @4028935
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  8 @4028965
+Program Page operation successful for page  8 @4049495
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 20 @4049525
+Page Read operation successful for page 20 @4070055
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 29 @4070085
+Program Page operation successful for page 29 @4090615
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 29 @4090655
+Program Page operation successful for page 29 @4111185
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  6 @4111205
+Program Page operation successful for page  6 @4131735
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 25 @4131755
+Program Page operation successful for page 25 @4152285
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 29 @4152305
+Page Read operation successful for page 29 @4172835
+------------------------------------------------------
+
+-----------------------------------------------------
+Erase operation started for block 1 @4172845
+Erase operation successful for block 1 @4172885
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 30 @4172925
+Program Page operation successful for page 30 @4193455
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 16 @4193465
+Page Read operation successful for page 16 @4213995
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  2 @4214005
+Page Read operation successful for page  2 @4234535
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 11 @4234555
+Program Page operation successful for page 11 @4255085
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 24 @4255115
+Page Read operation successful for page 24 @4275645
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 23 @4275655
+Program Page operation successful for page 23 @4296185
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 22 @4296195
+Page Read operation successful for page 22 @4316725
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 31 @4316745
+Page Read operation successful for page 31 @4337275
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 29 @4337295
+Program Page operation successful for page 29 @4357825
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  4 @4357845
+Program Page operation successful for page  4 @4378375
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 23 @4378385
+Page Read operation successful for page 23 @4398915
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  8 @4398925
+Program Page operation successful for page  8 @4419455
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 18 @4419465
+Page Read operation successful for page 18 @4439995
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 20 @4440005
+Page Read operation successful for page 20 @4460535
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 14 @4460575
+Program Page operation successful for page 14 @4481105
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 26 @4481135
+Page Read operation successful for page 26 @4501665
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 16 @4501695
+Page Read operation successful for page 16 @4522225
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 11 @4522295
+Program Page operation successful for page 11 @4542825
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  3 @4542835
+Program Page operation successful for page  3 @4563365
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 31 @4563385
+Page Read operation successful for page 31 @4583915
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  5 @4583925
+Page Read operation successful for page  5 @4604455
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  1 @4604475
+Program Page operation successful for page  1 @4625005
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 13 @4625025
+Page Read operation successful for page 13 @4645555
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 24 @4645575
+Program Page operation successful for page 24 @4666105
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  5 @4666135
+Program Page operation successful for page  5 @4686665
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 18 @4686695
+Page Read operation successful for page 18 @4707225
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page  2 @4707275
+Program Page operation successful for page  2 @4727805
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 10 @4727835
+Program Page operation successful for page 10 @4748365
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 27 @4748375
+Page Read operation successful for page 27 @4768905
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 18 @4768935
+Page Read operation successful for page 18 @4789465
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  5 @4789475
+Page Read operation successful for page  5 @4810005
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 11 @4810035
+Program Page operation successful for page 11 @4830565
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 11 @4830575
+Program Page operation successful for page 11 @4851105
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 19 @4851135
+Page Read operation successful for page 19 @4871665
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page 22 @4871685
+Page Read operation successful for page 22 @4892215
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  4 @4892235
+Page Read operation successful for page  4 @4912765
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 20 @4912795
+Program Page operation successful for page 20 @4933325
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 19 @4933335
+Program Page operation successful for page 19 @4953865
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 23 @4953925
+Program Page operation successful for page 23 @4974455
+------------------------------------------------------
+
+------------------------------------------------------
+Page Read operation started for page  0 @4974505
+Page Read operation successful for page  0 @4995035
+------------------------------------------------------
+
+------------------------------------------------------
+Program Page operation started for page 10 @4995045
+		----------Statistics Summary----------
+
+
+Total number of erase operations performed -->
+	Block Erase :          14
+	Program Page :         108
+	Page Read :         136
+
+After Verification of the above Statistics -->
+	Error Operations found :           0
+
+
+
+
+		--------Trace result set ends---------

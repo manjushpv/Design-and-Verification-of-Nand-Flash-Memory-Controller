@@ -1,0 +1,49 @@
+vsim -voptargs=+acc work.BufferTop
+# vsim -voptargs="+acc" work.BufferTop 
+# Start time: 23:54:47 on Mar 16,2018
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading sv_std.std
+# Loading work.BufferTop(fast)
+# Loading work.IBuffer(fast)
+# Loading work.BufferDefs(fast)
+# Loading work.Buffer(fast)
+# Loading work.Buffer_tb(fast)
+add wave -r sim:/BufferTop/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: manjush  Hostname: SCIMITAR  ProcessID: 27728
+#           Attempting to use alternate WLF file "./wlft25ekgy".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft25ekgy
+run -all
+# 
+# @ 5	Write --> no overlap
+# write from host to buffer--> buffer full @20515
+# 
+# status is set for buf n cntrl @41015
+# 
+# @ 41055	Write --> overlap
+# write from host to buffer--> buffer full @61565
+# read from buffer to controller completed!!!! dont read for more @61605
+# 
+# status is set for buf n cntrl @61605
+# 
+# @ 61655	Write --> first overlap
+# 
+# status is set for buf n cntrl @82175
+# 
+# @ 82225	Read --> no overlap
+# 
+# status is set for host n buf @123235
+# 
+# @ 123275	Read --> overlap
+# write from controller to buffer--> buffer full @143785
+# read from buffer to host completed!!!! dont read for more @143825
+# 
+# status is set for host n buf @143825
+# 
+# @ 143895	Read --> first overlap
+# 
+# status is set for host n buf @164415
+# ** Note: $stop    : N:/SystemVerilog/NandFlashController/Buffer_tb.sv(115)
+#    Time: 164475 ns  Iteration: 1  Instance: /BufferTop/bufm_tb
+# Break in Module Buffer_tb at N:/SystemVerilog/NandFlashController/Buffer_tb.sv line 115

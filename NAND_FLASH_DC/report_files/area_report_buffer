@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : Buffer
+Version: G-2012.06
+Date   : Wed Mar 14 16:20:33 2018
+****************************************
+
+Information: Updating design information... (UID-85)
+Warning: Design 'Buffer' contains 17 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
+Library(s) Used:
+
+    saed32rvt_ff0p85v125c (File: /u/sumeeth2/DI_Winter_2017/DC/MUX/models/saed32rvt_ff0p85v125c.db)
+
+Number of ports:                           73
+Number of nets:                        108656
+Number of cells:                       108496
+Number of combinational cells:          75624
+Number of sequential cells:             32870
+Number of macros:                           0
+Number of buf/inv:                      14449
+Number of references:                      29
+
+Combinational area:       276096.453731
+Noncombinational area:    217197.568986
+Net Interconnect area:    451684.671621
+
+Total cell area:          493294.022717
+Total area:               944978.694338
+1

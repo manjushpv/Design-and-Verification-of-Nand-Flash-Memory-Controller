@@ -1,0 +1,67 @@
+ 
+****************************************
+Report : qor
+Design : Buffer
+Version: G-2012.06
+Date   : Wed Mar 14 16:20:54 2018
+****************************************
+
+
+  Timing Path Group (none)
+  -----------------------------------
+  Levels of Logic:              0.000
+  Critical Path Length:         0.318
+  Critical Path Slack:         uninit
+  Critical Path Clk Period:       n/a
+  Total Negative Slack:         0.000
+  No. of Violating Paths:       0.000
+  Worst Hold Violation:         0.000
+  Total Hold Violation:         0.000
+  No. of Hold Violations:       0.000
+  -----------------------------------
+
+
+  Cell Count
+  -----------------------------------
+  Hierarchical Cell Count:          2
+  Hierarchical Port Count:        128
+  Leaf Cell Count:             108558
+  Buf/Inv Cell Count:           14451
+  CT Buf/Inv Cell Count:            0
+  Combinational Cell Count:     75688
+  Sequential Cell Count:        32870
+  Macro Count:                      0
+  -----------------------------------
+
+
+  Area
+  -----------------------------------
+  Combinational Area:      276096.454
+  Noncombinational Area:   217197.569
+  Net Area:                451684.672
+  -----------------------------------
+  Cell Area:               493294.023
+  Design Area:             944978.694
+
+
+  Design Rules
+  -----------------------------------
+  Total Number of Nets:        108716
+  Nets With Violations:             0
+  Max Trans Violations:             0
+  Max Cap Violations:               0
+  -----------------------------------
+
+
+  Hostname: eve.ece.pdx.edu
+
+  Compile CPU Statistics
+  -----------------------------------------
+  Resource Sharing:                 143.915
+  Logic Optimization:               619.908
+  Mapping Optimization:             430.835
+  -----------------------------------------
+  Overall Compile Time:            1694.286
+  Overall Compile Wall Clock Time: 1697.020
+
+1

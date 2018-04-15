@@ -1,0 +1,134 @@
+ 
+****************************************
+Report : qor
+Design : Controller
+Version: G-2012.06
+Date   : Wed Mar 14 15:03:53 2018
+****************************************
+
+
+  Timing Path Group (none)
+  -----------------------------------
+  Levels of Logic:              2.000
+  Critical Path Length:        10.937
+  Critical Path Slack:         uninit
+  Critical Path Clk Period:       n/a
+  Total Negative Slack:         0.000
+  No. of Violating Paths:       0.000
+  Worst Hold Violation:         0.000
+  Total Hold Violation:         0.000
+  No. of Hold Violations:       0.000
+  -----------------------------------
+
+
+  Cell Count
+  -----------------------------------
+  Hierarchical Cell Count:          0
+  Hierarchical Port Count:          0
+  Leaf Cell Count:                220
+  Buf/Inv Cell Count:              17
+  CT Buf/Inv Cell Count:            0
+  Combinational Cell Count:       135
+  Sequential Cell Count:           85
+  Macro Count:                      0
+  -----------------------------------
+
+
+  Area
+  -----------------------------------
+  Combinational Area:         172.310
+  Noncombinational Area:      598.763
+  Net Area:                   141.512
+  -----------------------------------
+  Cell Area:                  771.073
+  Design Area:                912.585
+
+
+  Design Rules
+  -----------------------------------
+  Total Number of Nets:           274
+  Nets With Violations:             0
+  Max Trans Violations:             0
+  Max Cap Violations:               0
+  -----------------------------------
+
+
+  Hostname: eve.ece.pdx.edu
+
+  Compile CPU Statistics
+  -----------------------------------------
+  Resource Sharing:                   0.154
+  Logic Optimization:                 0.408
+  Mapping Optimization:               0.300
+  -----------------------------------------
+  Overall Compile Time:               3.094
+  Overall Compile Wall Clock Time:    2.913
+
+1
+ 
+****************************************
+Report : qor
+Design : Controller
+Version: G-2012.06
+Date   : Wed Mar 14 16:43:43 2018
+****************************************
+
+
+  Timing Path Group (none)
+  -----------------------------------
+  Levels of Logic:              2.000
+  Critical Path Length:        10.937
+  Critical Path Slack:         uninit
+  Critical Path Clk Period:       n/a
+  Total Negative Slack:         0.000
+  No. of Violating Paths:       0.000
+  Worst Hold Violation:         0.000
+  Total Hold Violation:         0.000
+  No. of Hold Violations:       0.000
+  -----------------------------------
+
+
+  Cell Count
+  -----------------------------------
+  Hierarchical Cell Count:          0
+  Hierarchical Port Count:          0
+  Leaf Cell Count:                220
+  Buf/Inv Cell Count:              17
+  CT Buf/Inv Cell Count:            0
+  Combinational Cell Count:       135
+  Sequential Cell Count:           85
+  Macro Count:                      0
+  -----------------------------------
+
+
+  Area
+  -----------------------------------
+  Combinational Area:         172.310
+  Noncombinational Area:      598.763
+  Net Area:                   141.512
+  -----------------------------------
+  Cell Area:                  771.073
+  Design Area:                912.585
+
+
+  Design Rules
+  -----------------------------------
+  Total Number of Nets:           274
+  Nets With Violations:             0
+  Max Trans Violations:             0
+  Max Cap Violations:               0
+  -----------------------------------
+
+
+  Hostname: eve.ece.pdx.edu
+
+  Compile CPU Statistics
+  -----------------------------------------
+  Resource Sharing:                   0.176
+  Logic Optimization:                 0.434
+  Mapping Optimization:               0.301
+  -----------------------------------------
+  Overall Compile Time:               3.481
+  Overall Compile Wall Clock Time:    2.920
+
+1

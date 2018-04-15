@@ -1,0 +1,35 @@
+//--------------------------------------------------------------------------------------------------------------------
+// File         : Mmeory.sv --> Design of memory module
+// Author       : Manjush Padmamma Venkatesha
+// Date Created : March 12 2018
+// Description  : Design of Nand Flash Memory Controller, which is designed using FSM
+//                Off state when cEn is de-asserted. And stays in other states when cEn is asserted
+//		  Memory operations involved : Block erase, Page Read and Program Page
+//		  After the completion of operation status is asserted as a handshaking signal to the Memory Controller
+//		  The memory depth is 2^16 and Data, Address and Command are multipled on a single bus of 16 bit width
+//--------------------------------------------------------------------------------------------------------------------package MemoryDefs;
+
+parameter DIOWidth = 16;				//Memory Depth
+parameter MemoryDepth = (2 ** DIOWidth);
+parameter PageSize = 16'h800;				//Page Size
+parameter BlockSize = 16'h4 * PageSize;			//Block Size
+
+logic [DIOWidth - 1 : 0] Address;			//For changing address on page operations
+logic [DIOWidth - 1 : 0] BaseAddress;			//To hold Initial address received on Bus from Memory Controller
+int AddressCount;					//Count to keep up the size of Page
+logic [DIOWidth - 1 : 0] Command;			//To hold the value of command when latched under CLE
+logic [DIOWidth - 1 : 0] DIO_out;			//signal used to drive tri net DIO multiplesd bus
+//Commands for the opertaions performed on Memory
+parameter erase = 16'h0;				//Erase operation
+parameter program_page = 16'h1;				//Program Page operation
+parameter page_read = 16'h2;				//Page Read Operation
+
+logic write_flag;					//Flag to indicate write operation started
+logic read_flag;					//Flag to indicate read operation started
+
+logic [DIOWidth - 1 : 0] mem [0 : MemoryDepth - 1];	//memory instantiation
+typedef enum {Off, Hold, Command_Latch, Address_Latch, Memory_Read, Memory_Read_Wait, Memory_Write, Memory_Erase} state_t;// state declarations
+
+state_t state, next_state;				// current and next state of state_t type declaration
+
+endpackage

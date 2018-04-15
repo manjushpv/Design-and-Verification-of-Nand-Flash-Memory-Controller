@@ -1,0 +1,36 @@
+//--------------------------------------------------------------------------------------------------------------------
+// File         : Controller.sv --> Design of controller module
+// Author       : Manjush Padmamma Venkatesha
+// Date Created : March 1 2018
+// Description  : Design of Controller Module, state machine is been designed
+//		  It travels between states for diffrent operations based on different input signal controls
+//		  from host interface interactions
+//		  It controls data flow between memory and host which has communication between buffer and host too
+//--------------------------------------------------------------------------------------------------------------------
+interface IController #(parameter AddressWidth = 16, //address width control for RWA from host
+parameter CommandWidth = 3,			  //command width for nfc_command
+parameter DataWidth = 16)(input logic clk);		//data width for host interface
+
+tri [DataWidth - 1 : 0] DIO;			//DIO  multiplexed tri bus for memory interaction
+logic [DataWidth - 1 : 0] cntrl_in;		//data inout from buffer
+logic cntrl_sel, cntrl_we, cntrl_re; 		//control signals between buffer and cotroller
+logic nfc_done;					//status of operation completion
+logic ALE, CLE, wEn, rEn;			//control signals to latch address, command, and for read/write operation
+logic command_error;				//command error which states invalid command
+logic cEn;					//chip enable for memory	
+logic [CommandWidth - 1 : 0] nfc_cmd;		//command from host
+logic [AddressWidth - 1 : 0] RWA;		//Address from host to controoller
+logic Reset, nfc_start;				//global reset and start operation signal
+logic status;					//status asserted from memory after completion of operation
+logic [DataWidth - 1 : 0] cntrl_out;		//output from buffre, which is input to controller, data read from buffer
+logic buf_cntrl_status;				//status of read completion and idle state of buffer available for new load
+logic host_buf_status;				//status of read completion and idle state of buffer available for new load
+
+modport ControllerPorts (inout DIO, output cntrl_in, cntrl_sel, cntrl_we, cntrl_re, nfc_done, ALE, CLE, wEn, rEn, command_error, cEn,
+input nfc_cmd, RWA, Reset, nfc_start, clk,status, cntrl_out, buf_cntrl_status, host_buf_status);
+
+modport ControllerPorts_tb (inout DIO, input cntrl_in, cntrl_sel, cntrl_we, cntrl_re, nfc_done, ALE, CLE, wEn, rEn, command_error, cEn, clk,
+output nfc_cmd, RWA, Reset, nfc_start, status, cntrl_out, buf_cntrl_status, host_buf_status);
+
+
+endinterface : IController 

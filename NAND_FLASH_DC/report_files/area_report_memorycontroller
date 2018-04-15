@@ -1,0 +1,60 @@
+ 
+****************************************
+Report : area
+Design : MemoryController
+Version: G-2012.06
+Date   : Wed Mar 14 16:21:02 2018
+****************************************
+
+Information: Updating design information... (UID-85)
+Warning: Design 'MemoryController' contains 17 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
+Library(s) Used:
+
+    saed32rvt_ff0p85v125c (File: /u/sumeeth2/DI_Winter_2017/DC/MUX/models/saed32rvt_ff0p85v125c.db)
+
+Number of ports:                           81
+Number of nets:                           135
+Number of cells:                           35
+Number of combinational cells:             33
+Number of sequential cells:                 0
+Number of macros:                           0
+Number of buf/inv:                          0
+Number of references:                       4
+
+Combinational area:       276271.304805
+Noncombinational area:    217902.564453
+Net Interconnect area:    451896.974266
+
+Total cell area:          494173.869257
+Total area:               946070.843523
+1
+ 
+****************************************
+Report : area
+Design : MemoryController
+Version: G-2012.06
+Date   : Wed Mar 14 16:22:30 2018
+****************************************
+
+Information: Updating design information... (UID-85)
+Warning: Design 'MemoryController' contains 17 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
+Library(s) Used:
+
+    saed32rvt_ff0p85v125c (File: /u/sumeeth2/DI_Winter_2017/DC/MUX/models/saed32rvt_ff0p85v125c.db)
+
+Number of ports:                           81
+Number of nets:                           135
+Number of cells:                           35
+Number of combinational cells:             33
+Number of sequential cells:                 0
+Number of macros:                           0
+Number of buf/inv:                          0
+Number of references:                       4
+
+Combinational area:       276271.304805
+Noncombinational area:    217902.564453
+Net Interconnect area:    451896.974266
+
+Total cell area:          494173.869257
+Total area:               946070.843523
+1
